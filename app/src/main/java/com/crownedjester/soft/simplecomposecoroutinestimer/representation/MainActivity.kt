@@ -1,4 +1,4 @@
-package com.crownedjester.soft.simplecomposecoroutinestimer
+package com.crownedjester.soft.simplecomposecoroutinestimer.representation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
